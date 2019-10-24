@@ -1,0 +1,385 @@
+/*Global css*/
+.*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+body{
+
+}
+header{
+	width: 100%;
+	float: left;
+}
+
+/*First Logo Image*/
+img{
+	height: 40px;
+	margin: 0 10px;
+}
+
+.trust {
+
+    margin: -68px 66px;
+    position: absolute;
+    background-color: #15000000;
+    color: #ffffffe3;
+    display: block;
+    font-size: 22px;
+
+}
+
+.coders {
+
+    margin: -30px 103px;
+    position: absolute;
+    background-color: #15000000;
+    color: #26ff9fe3;
+    font-size: 10px;
+    display: block;
+
+}
+
+
+/*First Content of First Container*/
+.logo{
+	width: 25%;
+	background-color: #AE135C;
+	height: 40px;
+	float: left;
+
+/*Second Content of First Container*/
+}
+.menubar{
+	width: 50%;
+	background-color: #105656;
+	height: 40px;
+	float: left;
+}
+
+/*Third Content of First Container*/
+.social{
+	width: 25%;
+	background-color: #0C18DA;;
+	height: 40px;
+	float: left;
+    display: block;
+}
+
+/*Start of "Inner Property Value" of "Second Content" of "First Container"*/
+.menubar nav{
+	margin: 28px;
+}
+
+.menubar nav ul{
+	list-style: none;
+	margin: -29px 25px;
+}
+
+.menubar nav ul li{
+	display: inline-block;
+	margin: 10px;
+}
+
+.menubar nav ul li a{
+	text-decoration: none;
+	color: #efe3e3;
+	font-size: 20px;
+}
+/*End of "Inner Property Value" of "Second Content" of "First Container"*/
+
+
+/*Start of "Inner Property Value" of "Third Content" of "First Container"*/
+.social nav{
+	margin: 28px;
+}
+
+.social nav ul{
+	list-style: none;
+	margin: -28px -44px;
+}
+
+.social nav ul li{
+	display: inline-block;
+	margin: 10px;
+}
+
+.social nav ul li i{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	color: #fff;
+}
+/*End of "Inner Property Value" of "Third Content" of "First Container"*/
+
+/*start of Section Part"*/
+
+section img{
+	height: 200px;
+	margin: 0 auto;
+	width: 33.33%;
+	float: left;
+    display: block;
+}
+
+/*Start of Insert Table Type Box with Text & Button"*/
+.banner {
+
+    margin: 71px 60px;
+    position: absolute;
+    background-color: #00020730;
+    padding: 20px 55px;
+    color: #ffffffe3;
+    display: block;
+
+}
+
+.btn{
+    border:none;
+    outline: none;
+    color: #fff;
+    font-size: 16px;
+    background: rgb(255,38,126);
+    cursor:pointer;
+    border-radius:20px;
+}
+
+.btn:hover{
+        background: #efed40;
+        color: #262626;
+}
+
+.tanner {
+
+    margin: 76px 440px;
+    position: absolute;
+    background-color: #3ad59b40;
+    padding: 19px 3px;
+    color: #0f2367e3;
+    display: block;
+
+}
+
+.canner {
+    position: absolute;
+    top: 74px;
+    right: 133px;
+    background-color: #e4ebcb3b;
+    padding: 24px;
+    color: #031600;
+    display: block;
+}
+
+
+
+/*End of Insert Table Type Box with Text & Button"*/
+
+/*End of Section Part"*/
+
+
+
+/*Start of full width image & 6 Red Icon Section Part"*/
+
+.finance img{
+	height: 300px;
+	margin: 0 auto;
+	width: 100%;
+	float: left;
+    display: block;
+}
+
+.icon nav ul {
+    list-style: none;
+    position: absolute;
+    background-color: #1b53da2b;
+    margin: 257px 234px;
+    display: block;
+}
+
+.icon nav ul li {
+    display: inline-block;
+    margin: 0 25px;
+}
+
+.icon nav ul li i {
+    text-decoration: none;
+    color: black;
+    font-size: 70px;
+    color: darkred;
+
+}
+
+/*End of one full width image & Red Icon Section Part"*/
+
+.iconbanner {
+    position: absolute;
+    background: #5dfa4057;
+    width: 115px;
+    color: #000;
+    margin: 329px 373px;
+    display: block;
+}
+
+.iconbanner1 {
+    position: absolute;
+    background: #5d53bb5c;
+    width: 115px;
+    color: #fff;
+    margin: 329px 247px;
+    display: block;
+}
+
+.iconbanner2 {
+    position: absolute;
+    background: #d210de52;
+    width: 115px;
+    color: #fff;
+    margin: 329px 508px;
+    display: block;
+}
+
+.iconbanner3 {
+    position: absolute;
+    background: #10de9e52;
+    width: 115px;
+    color: #11110f;
+    margin: 329px 638px;
+    display: block;
+}
+
+    
+
+.nayon img {
+
+    height: 300px;
+    margin: 0 auto;
+    width: 50%;
+    float: left;
+    display: block;
+
+}
+
+.box01 img {
+
+    height: 300px;
+    margin: 0 auto;
+    width: 50%;
+    float: left;
+    display: block;
+
+}
+
+.iconbanner4 {
+    position: absolute;
+    background-color: #236edd00;
+    color: #eed4e4;
+    margin: 527px 589px;
+    float: left;
+    width: 44%;
+    height: 288px;
+    display: block;
+}
+
+
+
+
+.box02 {
+
+    height: 300px;
+    margin: 0 auto;
+    width: 50%;
+    float: left;
+    display: block;
+    background-color: darkblue;
+}
+
+.iconbanner5 {
+
+    position: absolute;
+    background-color: #8dc15357;
+    color: #fdd;
+    margin: -6px 3.4px;
+    float: left;
+    display: block;
+    width: 563px;
+    height: 0px;
+
+}
+
+.img{
+    height: 300px;
+    margin: 0 auto;
+    width: 50%;
+    float: left;
+    display: block;  
+}
+
+.good img{
+    width: 50%;
+    margin: 0 auto;
+    height: 300px;
+    float: left;
+    display: block;
+}
+
+
+
+.aaa{
+    width: 33.33%;
+    background-color: #fff;
+    height: 250px;
+    float: left;
+    color: #631fd4;
+
+/*Second Content of First Container*/
+}
+.bbb{
+    width: 33.33%;
+    background-color: #fff;
+    height: 250px;
+    float: left;
+    color: #e58514;
+}
+
+/*Third Content of First Container*/
+.ccc{
+    width: 33.33%;
+    background-color: #fff;
+    height: 250px;
+    float: left;
+    display: block;
+    color: #20e526;
+}
+
+
+
+.xxx {
+    width: 33.33%;
+    background-color: #ff960e;
+    height: 100px;
+    float: left;
+    color: #fff;
+}
+
+.yyy{
+    width: 33.33%;
+    background-color: #ff960e;
+    height: 100px;
+    float: left;
+    color: #fff;
+}
+
+
+.zzz{
+    width: 33.33%;
+    background-color: #ff960e;
+    height: 100px;
+    float: left;
+    display: block;
+    color: #fff;
+}
+
